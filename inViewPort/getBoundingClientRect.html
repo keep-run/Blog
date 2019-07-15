@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>getBoundingClientRect</title>
+</head>
+<style>
+    body {
+        margin: 0
+    }
+
+    .wrap {
+        height: 1000px;
+        width: 1000px;
+        padding: 100px 0 0 100px
+    }
+
+    .target {
+        width: 100px;
+        height: 100px;
+        background: pink
+    }
+</style>
+
+<body>
+    <div class="wrap">
+        <div class="target"/>
+    </div>
+</body>
+<script>
+    let target = document.getElementsByClassName('target')[0];
+    console.log(target.getBoundingClientRect())
+</script>
+
+</html>
