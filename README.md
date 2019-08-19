@@ -2,6 +2,7 @@
 ## JS基础
 - [ES5/ES6 作用域方面的区别。](https://github.com/keep-run/Blog/issues/1)
 - [判断元素是否在可视区。](https://github.com/keep-run/Blog/issues/4)
+- [箭头函数](https://github.com/keep-run/Blog/issues/5)
 ## Linux
 - [linux常用指令。](https://github.com/keep-run/Blog/issues/2)
 - [解决端口占用问题。](https://github.com/keep-run/Blog/issues/6)
