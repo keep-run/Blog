@@ -11,3 +11,4 @@
 
 ## 工具相关指令
 - [zsh以及vim指令以及快捷键](https://github.com/keep-run/Blog/issues/7)
+- [git操作](https://github.com/keep-run/Blog/issues/9)
