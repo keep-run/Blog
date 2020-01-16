@@ -3,6 +3,9 @@
 - [ES5/ES6 作用域方面的区别。](https://github.com/keep-run/Blog/issues/1)
 - [判断元素是否在可视区。](https://github.com/keep-run/Blog/issues/4)
 - [箭头函数](https://github.com/keep-run/Blog/issues/5)
+
+## TS相关
+- [关于TS的一些写法问题。](https://github.com/keep-run/Blog/issues/18)
 ## Linux
 - [linux常用指令。](https://github.com/keep-run/Blog/issues/2)
 - [解决端口占用问题。](https://github.com/keep-run/Blog/issues/6)
@@ -20,3 +23,5 @@
 ## 其他
 - [js同步等待](https://github.com/keep-run/Blog/issues/10)
 - [流文件操作](https://github.com/keep-run/Blog/issues/13)
+
+
