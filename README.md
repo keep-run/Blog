@@ -7,6 +7,7 @@
 ## TS相关
 - [关于TS的一些写法问题。](https://github.com/keep-run/Blog/issues/18)
 - [关于ts的一些题目](https://github.com/keep-run/Blog/issues/22)
+- [ts重要知识点](https://github.com/keep-run/Blog/issues/23)
 ## Linux
 - [linux常用指令。](https://github.com/keep-run/Blog/issues/2)
 - [解决端口占用问题。](https://github.com/keep-run/Blog/issues/6)
