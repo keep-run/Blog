@@ -40,7 +40,7 @@ HOC的缺陷：
 - HOC可以劫持`props`. 如果使用不规范或者不遵守约定，容易产生冲突；
 
 # Hooks
-通过自定义的hooks。可以解决mixin意见HOC的问题。
+通过自定义的hooks。可以解决mixin以及HOC的问题。
 
 比如通过自定义Hooks修改页面的title
 ```javascript
