@@ -12,7 +12,7 @@ p instanceof Person  //true
   ```javascript
   Object.getPrototypeOf(p)===p.__proto__  //true
   ```
-- `isPrototypeOf`:检测某个对象是否存在于另一个对象的原型链上。继续以上的例子
+- `isPrototypeOf`：检测某个对象是否存在于另一个对象的原型链上。继续以上的例子
   ```javascript
   Person.prototype.isPrototypeOf(p) //true
   ```
