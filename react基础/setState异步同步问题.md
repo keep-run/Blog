@@ -2,3 +2,5 @@
 
 - 同步执行：原生事件&setTimeout
 - 异步执行：合成事件(比如react中的onClick以及onChange等)&生命周期的钩子函数
+
+参考资料： https://zhuanlan.zhihu.com/p/39512941
