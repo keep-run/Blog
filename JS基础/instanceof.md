@@ -29,3 +29,28 @@ Object.getPrototypeOf(p)===Person.prototype
 Person.prototype.isPrototypeOf(p)
 
 ```
+手动实现一个通过用的instanceof
+```javascript
+function A() {
+}
+
+function B() { }
+function C() { }
+B.prototype = new A()
+
+let instance = new B()
+
+console.log('---instance instanceof B-----', instance instanceof B)  //true
+console.log('---instance instanceof A-----', instance instanceof A)  //true
+
+function isInstanceOf(target1, target2) {
+  let proto = Object.getPrototypeOf(target1)
+  if(!proto){return false}
+  if (proto === target2.prototype) { return true }
+  return isInstanceOf(proto, target2)
+}
+
+console.log('---instance isInstanceOf B-----', isInstanceOf(instance, B)) //true
+console.log('---instance isInstanceOf A-----', isInstanceOf(instance, A)) //true
+console.log('---instance isInstanceOf C-----', isInstanceOf(instance, C)) //false
+```
