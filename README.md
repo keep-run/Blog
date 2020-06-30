@@ -5,6 +5,7 @@
 - [箭头函数](https://github.com/keep-run/Blog/issues/5)
 - [instanceof](https://github.com/keep-run/Blog/blob/master/JS%E5%9F%BA%E7%A1%80/instanceof.md)
 - [js中的new及其模拟实现](https://github.com/keep-run/Blog/issues/24)
+- [promise的应用--解决红绿灯问题](https://github.com/keep-run/Blog/issues/25)
 
 ## TS相关
 - [关于TS的一些写法问题。](https://github.com/keep-run/Blog/issues/18)
