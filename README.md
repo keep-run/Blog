@@ -7,6 +7,7 @@
 - [js中的new及其模拟实现](https://github.com/keep-run/Blog/issues/24)
 - [promise的应用--解决红绿灯问题](https://github.com/keep-run/Blog/issues/25)
 - [函数柯里化](https://github.com/keep-run/Blog/issues/26)
+- [图片加载失败的优雅处理](https://github.com/keep-run/Blog/issues/29)
 
 
 ## TS相关
