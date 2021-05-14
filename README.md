@@ -36,6 +36,7 @@
 ## 其他
 - [js同步等待](https://github.com/keep-run/Blog/issues/10)
 - [流文件操作](https://github.com/keep-run/Blog/issues/13)
+- [class组件和函数组件中的ref处理](https://github.com/keep-run/Blog/issues/33)
 
 ## 脚手架
 - [commander使用](https://github.com/keep-run/Blog/issues/27)
