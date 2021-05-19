@@ -22,7 +22,7 @@
 ## 数据结构与算法
 - [单链表常见算法(环链表、交叉链表)](https://github.com/keep-run/Blog/issues/3)
 - [lazyMan](https://github.com/keep-run/Blog/issues/31)
-
+- [长列表优化(虚拟列表)](https://github.com/keep-run/Blog/issues/35)
 ## 工具相关指令
 - [zsh以及vim指令以及快捷键](https://github.com/keep-run/Blog/issues/7)
 - [git操作](https://github.com/keep-run/Blog/issues/9)
