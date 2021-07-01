@@ -10,7 +10,9 @@
 - [图片加载失败的优雅处理](https://github.com/keep-run/Blog/issues/29)
 - [cookie-session](https://github.com/keep-run/Blog/issues/32)
 - [interSectionObserver实践](https://github.com/keep-run/Blog/issues/34)
-- [promise.all实现](https://github.com/keep-run/Blog/issues/36)
+- [从零实现promise(一)](https://github.com/keep-run/Blog/issues/37)
+- [从零实现promise(二)](https://github.com/keep-run/Blog/issues/38)
+- [从零实现promise(三)](https://github.com/keep-run/Blog/issues/39)
 
 
 ## TS相关
