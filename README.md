@@ -46,6 +46,8 @@
 - [commander使用](https://github.com/keep-run/Blog/issues/27)
 - [从零开始一个前端脚手架(一)](https://github.com/keep-run/Blog/issues/42)
 - [从零开始一个前端脚手架(二)](https://github.com/keep-run/Blog/issues/43)
+- [从零开始一个前端脚手架(三)](https://github.com/keep-run/Blog/issues/44)
+
 
 ## 设计模式
 - [观察者模式&发布订阅模式](https://github.com/keep-run/Blog/issues/28)
