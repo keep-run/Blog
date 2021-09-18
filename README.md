@@ -47,6 +47,7 @@
 - [从零开始一个前端脚手架(一)](https://github.com/keep-run/Blog/issues/42)
 - [从零开始一个前端脚手架(二)](https://github.com/keep-run/Blog/issues/43)
 - [从零开始一个前端脚手架(三)](https://github.com/keep-run/Blog/issues/44)
+- [从零开始一个前端脚手架(四)](https://github.com/keep-run/Blog/issues/46)
 - [脚手架开发采坑记录](https://github.com/keep-run/Blog/issues/45)
 
 
